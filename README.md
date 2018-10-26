@@ -30,7 +30,7 @@ func main() {
 ```
 
 ## Documentation
-* [API References](https://godoc.org/github.com/northbright/byteorder?status.svg)](https://godoc.org/github.com/northbright/byteorder)
+* [API References](https://godoc.org/github.com/northbright/byteorder)
 
 ## License
 * [MIT License](./LICENSE)
