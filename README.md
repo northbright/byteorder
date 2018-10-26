@@ -1,5 +1,8 @@
 # byteorder
 
+[![Build Status](https://travis-ci.org/northbright/byteorder.svg?branch=master)](https://travis-ci.org/northbright/byteorder)
+[![GoDoc](https://godoc.org/github.com/northbright/byteorder?status.svg)](https://godoc.org/github.com/northbright/byteorder)
+
 byteorder is a [Golang](https://golang.org) package which detects byte order of runtime system.
 
 ## Example
@@ -27,3 +30,7 @@ func main() {
 ```
 
 ## Documentation
+* [API References](https://godoc.org/github.com/northbright/byteorder?status.svg)](https://godoc.org/github.com/northbright/byteorder)
+
+## License
+* [MIT License](./LICENSE)
